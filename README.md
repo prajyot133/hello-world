@@ -2,7 +2,7 @@
 
 I am Prajyot.
 A self learner.
-Curious all along.
+Curious always.
 I Never stop trying.
 
 A Demo Repository
